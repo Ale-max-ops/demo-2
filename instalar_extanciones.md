@@ -26,3 +26,4 @@ Reiniciamos VSC (Visual Studio Code)
 
 ### Como visualizar el documento
 ctrl + shift + v
+lalalala
