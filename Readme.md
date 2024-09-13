@@ -1,6 +1,14 @@
-# Aula-9
+# DESCRIPCION DE LAS CLACES
 
-## ClASE 3
+# CLASE 1 - PRESENTACION
 
-- Instalacion de extenciones
+# CLASE 2 - INSTALADO PROGRAMAS Y CONOCIENDO GIT, GITHUB Y VSC
+
+- Cramos un archivo "md" para explicar que es un algoritmo
+- Agregamos un archivo de instalacion
+- 
+## CLASE 3 - EXTEMCIONES, GITHUB Y VSC
+
+- Instalacion de cambio de lenjuegue y tabnine
 - Instroducion a MarkDown
+- 
